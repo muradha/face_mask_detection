@@ -1,0 +1,6 @@
+train: D:\projects\mask-detection\training\dataset\train
+val: D:\projects\mask-detection\training\dataset\valid
+test: D:\projects\mask-detection\training\dataset\test
+
+nc: 2
+names: ['no_mask', 'mask']
